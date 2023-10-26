@@ -1,0 +1,1371 @@
+{
+  "users": {
+    "1quYK8d8aQcamRUeBtIUt157Q0m2": {
+      "createAt": "Sat Oct 21 2023 18:23:16 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "matheus.sousoa.dev@gmail.com",
+      "matches": {
+        "1698025736199": {
+          "away": {
+            "gols": 0,
+            "nome": "Vasco",
+            "players": [
+              {
+                "camisa": "01",
+                "nome": "a",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "02",
+                "nome": "b",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "c",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "04",
+                "nome": "d",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698025736199,
+          "home": {
+            "gols": 2,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698026791778": {
+          "away": {
+            "gols": 0,
+            "nome": "Botafogo",
+            "players": [
+              {
+                "camisa": "1",
+                "nome": "maozinha",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "2",
+                "nome": "porteiro de escola publica",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "3",
+                "nome": "passador de roupas",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "6",
+                "nome": "vesgo(camisa 6 achando que era 9)",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698026791778,
+          "home": {
+            "gols": 6,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698042290250": {
+          "away": {
+            "gols": 0,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698042290250,
+          "home": {
+            "gols": 0,
+            "nome": "Vasco",
+            "players": [
+              {
+                "camisa": "01",
+                "nome": "a",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "02",
+                "nome": "b",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "c",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "04",
+                "nome": "d",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698042348776": {
+          "away": {
+            "gols": 0,
+            "nome": "Vasco",
+            "players": [
+              {
+                "camisa": "01",
+                "nome": "a",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "02",
+                "nome": "b",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "c",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "04",
+                "nome": "d",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698042348776,
+          "home": {
+            "gols": 0,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698042734499": {
+          "away": {
+            "gols": 0,
+            "nome": "Vasco",
+            "players": [
+              {
+                "camisa": "01",
+                "nome": "a",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "02",
+                "nome": "b",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "c",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "04",
+                "nome": "d",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698042734499,
+          "home": {
+            "gols": 0,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698068363343": {
+          "away": {
+            "gols": 1,
+            "nome": "Visitante"
+          },
+          "data": 1698068363343,
+          "home": {
+            "gols": 2,
+            "nome": "Mandante"
+          },
+          "minutos": 1
+        },
+        "1698068430750": {
+          "away": {
+            "gols": 1,
+            "nome": "Vasco",
+            "players": [
+              {
+                "camisa": "01",
+                "nome": "a",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "02",
+                "nome": "b",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "c",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "04",
+                "nome": "d",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698068430750,
+          "home": {
+            "gols": 2,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698069540741": {
+          "away": {
+            "gols": 0,
+            "nome": "Vasco",
+            "players": [
+              {
+                "camisa": "01",
+                "nome": "a",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "02",
+                "nome": "b",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "c",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "04",
+                "nome": "d",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698069540741,
+          "home": {
+            "gols": 0,
+            "nome": "Flamengo",
+            "players": [
+              {
+                "camisa": "02",
+                "nome": "Matheus Soares",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "Allan Souza",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Karine",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "03",
+                "nome": "Kaique Govani",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        },
+        "1698089741782": {
+          "away": {
+            "gols": 1,
+            "nome": "Visitante"
+          },
+          "data": 1698089741782,
+          "home": {
+            "gols": 2,
+            "nome": "Mandante"
+          },
+          "minutos": 1
+        }
+      },
+      "name": "Matheus S. Soares",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJH86Kx87ZS7TzIYLjbbtVsRb-ixoJh8FK_m6kC1DFIqQ=s96-c",
+      "times": {
+        "1698025284576": {
+          "nome": "Flamengo",
+          "players": [
+            {
+              "camisa": "02",
+              "nome": "Matheus Soares",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "01",
+              "nome": "Allan Souza",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "03",
+              "nome": "Karine",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "04",
+              "nome": "Kaique Govani",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        },
+        "1698025663072": {
+          "nome": "Vasco",
+          "players": [
+            {
+              "camisa": "01",
+              "nome": "a",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "02",
+              "nome": "b",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "03",
+              "nome": "c",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "04",
+              "nome": "d",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        },
+        "1698026397538": {
+          "nome": "Botafogo",
+          "players": [
+            {
+              "camisa": "1",
+              "nome": "maozinha",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "2",
+              "nome": "porteiro de escola publica",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "3",
+              "nome": "passador de roupas",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "6",
+              "nome": "vesgo(camisa 6 achando que era 9)",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        },
+        "1698028186227": {
+          "nome": "teste reservas",
+          "players": [
+            {
+              "camisa": "01",
+              "nome": "Matheus Soares",
+              "posicao": "gol",
+              "situacao": "Reserva"
+            },
+            {
+              "camisa": "02",
+              "nome": "Allan Souza",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "03",
+              "nome": "Kaique Govani",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "04",
+              "nome": "Karine",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "6",
+              "nome": "welton",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        },
+        "1698028586609": {
+          "nome": "time de teste nathan",
+          "players": [
+            {
+              "camisa": "1",
+              "nome": "Matheus Soares",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "02",
+              "nome": "Kaique Govani",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "03",
+              "nome": "Allan Souza",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "04",
+              "nome": "Karine",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "05",
+              "nome": "Nathan Barbosa",
+              "posicao": "gol",
+              "situacao": "Reserva"
+            }
+          ]
+        },
+        "1698075355364": {
+          "nome": "Time exemplo",
+          "players": [
+            {
+              "camisa": 2,
+              "nome": "Matheus Soares",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 12,
+              "nome": "Matheus Soares",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 3,
+              "nome": "Matheus Soares",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 9,
+              "nome": "Allan Souza",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "1quYK8d8aQcamRUeBtIUt157Q0m2"
+    },
+    "50uBTifOeVOgVkDMQ78qkqZTWy83": {
+      "createAt": "Sun Oct 22 2023 23:11:36 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "nathan.s.barbosa0@gmail.com",
+      "name": "Nathan Santos Barbosa",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLDHpNu9J7d38Z3bRkyJ9MazPpkcFdIlCVGk4MysbuAJQ=s96-c",
+      "times": {
+        "1698028040755": {
+          "nome": "Zulu",
+          "players": [
+            {
+              "camisa": "1",
+              "nome": "Joe",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "9",
+              "nome": "NATHAN BARBOSA",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "8",
+              "nome": "Nilton ",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "11",
+              "nome": "Mat",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "50uBTifOeVOgVkDMQ78qkqZTWy83"
+    },
+    "9kmuylYoDaVQrDugFDcxVNFB2kh1": {
+      "createAt": "Mon Oct 23 2023 00:00:58 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "laura.alves19@gmail.com",
+      "name": "Laura Beatriz",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJttCcAX1onE9ehZ4XkLM8MvBE6722bus6T3LLLhsQSPFBd=s96-c",
+      "times": {
+        "1698030346862": {
+          "nome": "Palmeiras ",
+          "players": [
+            {
+              "camisa": "21",
+              "nome": "Weverton",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "5",
+              "nome": "Dudu",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "7",
+              "nome": "Veiga",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "9",
+              "nome": "Endrick",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        },
+        "1698030417559": {
+          "nome": "Corinthians ",
+          "players": [
+            {
+              "camisa": "17",
+              "nome": "Cássio ",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "9",
+              "nome": "N sei",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "8",
+              "nome": "Matias",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "2",
+              "nome": "Yuri",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "9kmuylYoDaVQrDugFDcxVNFB2kh1"
+    },
+    "C3q7pdQMQPMFefuoNaPC7EcUU4u2": {
+      "createAt": "Sat Oct 21 2023 21:23:26 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "brunocunha86@gmail.com",
+      "name": "Bruno Cunha",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocKFkPEHT6EY94QclYL6-uJEA0xxvPNmvJuTxmZNIU07rw=s96-c",
+      "uid": "C3q7pdQMQPMFefuoNaPC7EcUU4u2"
+    },
+    "IOGCoqMWSdUhVMzbt7uziIpWm6q1": {
+      "createAt": "Mon Oct 23 2023 21:50:57 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "pedrosouza@soulasalle.com.br",
+      "name": "Pedro Henrique Araujo de Souza",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIAKG3tmj4mwqonvziMdzYPUQL0S4YFtzejoF3gx2TnQA=s96-c",
+      "uid": "IOGCoqMWSdUhVMzbt7uziIpWm6q1"
+    },
+    "LvT6Mg41p7MxhoGSGaDQEzeEeE42": {
+      "createAt": "Sun Oct 22 2023 23:28:57 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "kazeneite@gmail.com",
+      "matches": {
+        "1698028705067": {
+          "away": {
+            "gols": 0,
+            "nome": "Zulu",
+            "players": [
+              {
+                "camisa": "012",
+                "nome": "ASADA",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "10",
+                "nome": "AAFAFA",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "ASDDQWQW",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "2",
+                "nome": "CVCXCXB",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698028705067,
+          "home": {
+            "gols": 0,
+            "nome": "Zulu",
+            "players": [
+              {
+                "camisa": "012",
+                "nome": "ASADA",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "10",
+                "nome": "AAFAFA",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "ASDDQWQW",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "2",
+                "nome": "CVCXCXB",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 10
+        },
+        "1698183391787": {
+          "away": {
+            "gols": 0,
+            "nome": "Zulu",
+            "players": [
+              {
+                "camisa": "012",
+                "nome": "ASADA",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "10",
+                "nome": "AAFAFA",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "ASDDQWQW",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "2",
+                "nome": "CVCXCXB",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698183391787,
+          "home": {
+            "gols": 0,
+            "nome": "Zulu",
+            "players": [
+              {
+                "camisa": "012",
+                "nome": "ASADA",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "10",
+                "nome": "AAFAFA",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "01",
+                "nome": "ASDDQWQW",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": "2",
+                "nome": "CVCXCXB",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        }
+      },
+      "name": "nathan kaze",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocI0qCM6tE-9DmOwiHFbVk8MSS3_TqBwmuHOrGHbREOA=s96-c",
+      "times": {
+        "1698028190259": {
+          "nome": "Zulu",
+          "players": [
+            {
+              "camisa": "012",
+              "nome": "ASADA",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "10",
+              "nome": "AAFAFA",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "01",
+              "nome": "ASDDQWQW",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "2",
+              "nome": "CVCXCXB",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "LvT6Mg41p7MxhoGSGaDQEzeEeE42"
+    },
+    "NhG0jHwjgvN1JiQLTzToXMco7As1": {
+      "createAt": "Sat Oct 21 2023 19:29:45 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "matheussoares@soulasalle.com.br",
+      "name": "Matheus Souza Soares",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIovnOkBJV0gGky7PsCsJLFN8s_q_TPGY4icuSwrXfOwA=s96-c",
+      "times": {
+        "1698192745750": {
+          "nome": "lasalle",
+          "players": [
+            {
+              "camisa": 1,
+              "nome": "ajsdk",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 1231,
+              "nome": "asdas",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 2,
+              "nome": "afasf",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 12,
+              "nome": "asjkdk",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "NhG0jHwjgvN1JiQLTzToXMco7As1"
+    },
+    "OemjuF1CFLgzudfnYo2z6zbxyBB2": {
+      "createAt": "Mon Oct 23 2023 02:54:22 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "karinec876@gmail.com",
+      "name": "Karine Calixto",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJy5bQsSY0Zlu4Nze9AjUjIjmE4L0Y_R0202hISuEay=s96-c",
+      "times": {
+        "1698040531130": {
+          "nome": "Ka",
+          "players": [
+            {
+              "camisa": "01",
+              "nome": "A",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "02",
+              "nome": "Ba",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "03",
+              "nome": "Ce",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "04",
+              "nome": "De",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "OemjuF1CFLgzudfnYo2z6zbxyBB2"
+    },
+    "bvFLyTfwE6OnwKAG8hMTcBZMHI22": {
+      "createAt": "Tue Oct 24 2023 14:57:26 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "ruanzinho53@hotmail.com",
+      "matches": {
+        "1698170947594": {
+          "away": {
+            "gols": 0,
+            "nome": "Arrasta",
+            "players": [
+              {
+                "camisa": 1,
+                "nome": "Quiabo",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 2,
+                "nome": "Pena",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 4,
+                "nome": "Parede",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 10,
+                "nome": "Yng Norante",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 11,
+                "nome": "Lupalinda",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 9,
+                "nome": "Páforáh",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698170947594,
+          "home": {
+            "gols": 0,
+            "nome": "MecTreff",
+            "players": [
+              {
+                "camisa": 1,
+                "nome": "Zuca",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 0,
+                "nome": "Naas Perna",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 3,
+                "nome": "Naas Perna",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 8,
+                "nome": "Tuong Dor-min-noong",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 10,
+                "nome": "Veen Beer bend ",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 9,
+                "nome": "Nay Trayve",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 10
+        },
+        "1698171030256": {
+          "away": {
+            "gols": 1,
+            "nome": "Arrasta",
+            "players": [
+              {
+                "camisa": 1,
+                "nome": "Quiabo",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 2,
+                "nome": "Pena",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 4,
+                "nome": "Parede",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 10,
+                "nome": "Yng Norante",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 11,
+                "nome": "Lupalinda",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 9,
+                "nome": "Páforáh",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "data": 1698171030256,
+          "home": {
+            "gols": 3,
+            "nome": "MecTreff",
+            "players": [
+              {
+                "camisa": 1,
+                "nome": "Zuca",
+                "posicao": "GOL",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 0,
+                "nome": "Naas Perna",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 3,
+                "nome": "Naas Perna",
+                "posicao": "DEF",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 8,
+                "nome": "Tuong Dor-min-noong",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 10,
+                "nome": "Veen Beer bend ",
+                "posicao": "MC",
+                "situacao": "Titular"
+              },
+              {
+                "camisa": 9,
+                "nome": "Nay Trayve",
+                "posicao": "ATA",
+                "situacao": "Titular"
+              }
+            ]
+          },
+          "minutos": 1
+        }
+      },
+      "name": "Ruan / KBLIN",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJgtS9IHGbR139HztYeAAJl0D0QB82BJ9md837UafuFT5k=s96-c",
+      "times": {
+        "1698170587463": {
+          "nome": "MecTreff",
+          "players": [
+            {
+              "camisa": 1,
+              "nome": "Zuca",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 0,
+              "nome": "Naas Perna",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 3,
+              "nome": "Naas Perna",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 8,
+              "nome": "Tuong Dor-min-noong",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 10,
+              "nome": "Veen Beer bend ",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 9,
+              "nome": "Nay Trayve",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        },
+        "1698170718236": {
+          "nome": "Arrasta",
+          "players": [
+            {
+              "camisa": 1,
+              "nome": "Quiabo",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 2,
+              "nome": "Pena",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 4,
+              "nome": "Parede",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 10,
+              "nome": "Yng Norante",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 11,
+              "nome": "Lupalinda",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": 9,
+              "nome": "Páforáh",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "bvFLyTfwE6OnwKAG8hMTcBZMHI22"
+    },
+    "dHe3Md50CMe43nYPtNGTLyqQuxJ3": {
+      "createAt": "Mon Oct 23 2023 19:06:40 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "santoselimar760@gmail.com",
+      "name": "Elimar Santos",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocKVBMUx9RPSXhvwzp43DroQZ79SxAgNZAzIq0hTJomu=s96-c",
+      "uid": "dHe3Md50CMe43nYPtNGTLyqQuxJ3"
+    },
+    "gkBvHNbRYRNAYl9YL2CAGW3FJc72": {
+      "createAt": "Sat Oct 21 2023 21:17:03 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "josecarlosg0521@gmail.com",
+      "name": "Jose Carlos",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIZTFz845M-jEz0A2Gj1kEj3Z6GqGalatlf5Esrsgw7=s96-c",
+      "uid": "gkBvHNbRYRNAYl9YL2CAGW3FJc72"
+    },
+    "ixvaIAf4wEWxuqiUUD5uOz90Rro1": {
+      "createAt": "Tue Oct 24 2023 20:36:49 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "nathan.barbosa@soulasalle.com.br",
+      "name": "Nathan Santos Barbosa",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocKY8D6fLySU1CbKarqJQUFbAA0gqcXjHfGrumeqIzdZ7A=s96-c",
+      "uid": "ixvaIAf4wEWxuqiUUD5uOz90Rro1"
+    },
+    "vhovWtcXkiU28UkU9DpPWbDYcMC3": {
+      "createAt": "Mon Oct 23 2023 12:25:33 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "jota.sg31@gmail.com",
+      "name": "Jose Carlos",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLPaf7TZNFtW1t9138i574m2m2jyw4gzEO-asFOQsPz=s96-c",
+      "times": {
+        "1698074822527": {
+          "nome": "Time exemplo",
+          "players": [
+            {
+              "camisa": "01",
+              "nome": "Gol",
+              "posicao": "GOL",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "02",
+              "nome": "Def",
+              "posicao": "DEF",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "03",
+              "nome": "Mc",
+              "posicao": "MC",
+              "situacao": "Titular"
+            },
+            {
+              "camisa": "04",
+              "nome": "Ata",
+              "posicao": "ATA",
+              "situacao": "Titular"
+            }
+          ]
+        }
+      },
+      "uid": "vhovWtcXkiU28UkU9DpPWbDYcMC3"
+    },
+    "zHliU1qoQcZYfaK98N8Jzl1kWNB3": {
+      "createAt": "Mon Oct 23 2023 01:11:39 GMT-0300 (Horário Padrão de Brasília)",
+      "email": "kazeneithan@gmail.com",
+      "name": "Neite Neite",
+      "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocKMslAyVFWq1Bgw_5oUv0BgVcMKld7nZ38bLLv8jI6fjw=s96-c",
+      "uid": "zHliU1qoQcZYfaK98N8Jzl1kWNB3"
+    }
+  }
+}
